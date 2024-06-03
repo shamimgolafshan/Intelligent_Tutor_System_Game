@@ -17,7 +17,8 @@ This repository contains a Unity-based game designed as an Intelligent Tutor Sys
 
 The ITS game is designed to support children's vocabulary learning through interactive gameplay, parental engagement, and therapist assessments. By combining inputs from these three components, the application provides a comprehensive view of the child's vocabulary development.
 
-![Game Screenshot](path/to/your/image.png)
+<img width="433" alt="image" src="https://github.com/shamimgolafshan/Speech-Therapy-App/assets/35660420/e0bf7c9c-7520-456b-ac13-8dfec535ac37">
+
 
 ## Components
 
