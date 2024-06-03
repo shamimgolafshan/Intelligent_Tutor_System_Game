@@ -11,14 +11,13 @@ This repository contains a Unity-based game designed as an Intelligent Tutor Sys
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Citation](#citation)
 
 ## Introduction
 
 The ITS game is designed to support children's vocabulary learning through interactive gameplay, parental engagement, and therapist assessments. By combining inputs from these three components, the application provides a comprehensive view of the child's vocabulary development.
 
-<img width="433" alt="image" src="https://github.com/shamimgolafshan/Speech-Therapy-App/assets/35660420/e0bf7c9c-7520-456b-ac13-8dfec535ac37">
-
+![Game Screenshot](path/to/your/image.png)
 
 ## Components
 
@@ -35,11 +34,11 @@ Speech therapists can use this component to record the child's responses during 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/Intelligent_Tutor_System_Game.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repo-name
+   cd Intelligent_Tutor_System_Game
    ```
 3. Open the project in Unity:
    - Launch Unity Hub.
@@ -72,8 +71,9 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a pull request.
 
-Citation
+## Citation
 
 If you use this project in your research, please cite our article:
 
-گل افشان، شمیم و جزی، سعید و کارشناس، حسین و استادی، مرضیه،1395،بیا بازی: سیستم یکپارچه گفتاردرمانی برای کودکان دارای آسیب زبانی، دومین کنفرانس ملی بازیهای رایانهای؛ فرصتها و چالشها، اصفهان، Link to Article
+گل افشان، شمیم و جزی، سعید و کارشناس، حسین و استادی، مرضیه،1395،بیا بازی: سیستم یکپارچه گفتاردرمانی برای کودکان دارای آسیب زبانی، دومین کنفرانس ملی بازیهای رایانهای؛ فرصتها و چالشها، اصفهان، [Link to Article](https://civilica.com/doc/600455)
+
