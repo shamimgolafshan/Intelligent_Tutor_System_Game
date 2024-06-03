@@ -72,10 +72,8 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a pull request.
 
-## License
+Citation
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+If you use this project in your research, please cite our article:
 
----
-
-Replace `path/to/your/image.png` with the actual path to the image file in your repository. This README file now includes a section with a screenshot from the game to visually illustrate the gameplay component.
+گل افشان، شمیم و جزی، سعید و کارشناس، حسین و استادی، مرضیه،1395،بیا بازی: سیستم یکپارچه گفتاردرمانی برای کودکان دارای آسیب زبانی، دومین کنفرانس ملی بازیهای رایانهای؛ فرصتها و چالشها، اصفهان، Link to Article
