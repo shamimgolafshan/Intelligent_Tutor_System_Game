@@ -72,9 +72,3 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a pull request.
 
-## Citation
-
-If you use this project in your research, please cite our article:
-
-گل افشان، شمیم و جزی، سعید و کارشناس، حسین و استادی، مرضیه،1395،بیا بازی: سیستم یکپارچه گفتاردرمانی برای کودکان دارای آسیب زبانی، دومین کنفرانس ملی بازیهای رایانهای؛ فرصتها و چالشها، اصفهان، [Link to Article](https://civilica.com/doc/600455)
-
